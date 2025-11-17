@@ -1,6 +1,6 @@
 <?php
 
-require_once ("Buscador.php");
+require_once ("class/Buscador.php");
 
 $buscador = new Buscador();
 
