@@ -1,6 +1,6 @@
 <?php
 
-require_once("Vuelo.php");
+require_once("class/Vuelo.php");
 
 $vuelo1 = new Vuelo("BCN", "MAD", 95.40, 90, "IBERIA");
 //var_dump($vuelo1);
