@@ -12,7 +12,7 @@ class Vuelo{
         $this->destino=$destino;
         $this->precio=$precio;
         $this->duracion=$duracion;
-        $this->companyia=$duracion;
+        $this->companyia=$companyia;
     }
 
     public function getDestino():string{
